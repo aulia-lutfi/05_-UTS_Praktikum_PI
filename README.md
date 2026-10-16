@@ -5,7 +5,7 @@ Command-Line Interface (CLI) yang mengindeks lima dataset teks berbahasa Indones
 (dua kumpulan tesis/disertasi, dua kumpulan berita, satu kumpulan artikel populer),
 lalu mencari dan meranking dokumen paling mirip dengan query pengguna.
 
-Informasi Kelompok
+## Informasi Kelompok
 - Nomor Kelompok: 05
 - Anggota Kelompok:
   1. Aulia Lutfi
