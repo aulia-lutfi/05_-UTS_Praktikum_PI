@@ -6,8 +6,8 @@ Command-Line Interface (CLI) yang mengindeks lima dataset teks berbahasa Indones
 lalu mencari dan meranking dokumen paling mirip dengan query pengguna.
 
 ## Informasi Kelompok
-- Nomor Kelompok: 05
-- Anggota Kelompok:
+Nomor Kelompok: 05
+Anggota Kelompok:
   1. Aulia Lutfi
   2. Ilham
   3. Fadlur
