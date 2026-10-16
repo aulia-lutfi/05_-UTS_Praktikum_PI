@@ -7,7 +7,7 @@ lalu mencari dan meranking dokumen paling mirip dengan query pengguna.
 
 ## Informasi Kelompok
 Nomor Kelompok: 05
-Anggota Kelompok:
+ Anggota Kelompok:
   1. Aulia Lutfi
   2. Ilham
   3. Fadlur
