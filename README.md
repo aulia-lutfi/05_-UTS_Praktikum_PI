@@ -11,8 +11,8 @@ lalu mencari dan meranking dokumen paling mirip dengan query pengguna.
 **Nomor Kelompok:** 05
 
 **Anggota Kelompok:**
-1. Aulia Lutfi
-2. Ilham
+1. M.Ilham
+2. Aulia Lutfi
 3. Fadlur
 
 
