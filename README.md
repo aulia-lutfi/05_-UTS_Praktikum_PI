@@ -13,7 +13,7 @@ lalu mencari dan meranking dokumen paling mirip dengan query pengguna.
 **Anggota Kelompok:**
 1. M.Ilham
 2. Aulia Lutfi
-3. Fadlur
+3. Fathurrahman Pahmiputra
 
 
 ## 1. Deskripsi Singkat
